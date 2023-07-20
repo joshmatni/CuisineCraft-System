@@ -1,11 +1,11 @@
 /*!
  * Author: Josh Matni
- * Date: 12/1/2022
+ * Date: 2/1/2022
  * Purpose: Create restaurant ordering system that tracks customer loyalty
  * Max number of customers for this program is 1000
  * Max number of menuItems is 100
  * Max number of ingredients is 50
- * NOTE: only include NECESSARY .h files and built in libraries in cpp files (you onnly need fstream in driver for example)
+ *
 */
 #include "../helperFunctions/mainHelperFunctions.h"
 
