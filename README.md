@@ -1,4 +1,4 @@
-# Restaurant-Loyalty-Program
+# CuisineCraft System
 
 To execute:
 
